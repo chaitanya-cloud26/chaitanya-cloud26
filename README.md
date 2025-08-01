@@ -20,3 +20,14 @@
 📫 How to reach me:
 - [LinkedIn]chaitanyagaikwad26
 - [Email] cg9838362@gmail.com
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-cloud26&show_icons=true&theme=tokyonight" alt="Chaitanya's GitHub stats" width="49%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanya-cloud26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-cloud26&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+
+</div>
