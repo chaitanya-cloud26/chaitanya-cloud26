@@ -19,3 +19,4 @@
 
 📫 How to reach me:
 - [LinkedIn]chaitanyagaikwad26
+- [Email] cg9838362@gmail.com
