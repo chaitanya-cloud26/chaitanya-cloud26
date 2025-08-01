@@ -91,3 +91,36 @@
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaitanya-cloud26)
+# Chaitanya Gaikwad
+
+Aspiring Cloud Engineer | Google Cloud & NVIDIA Developer | Building Scalable Cloud Apps
+
+---
+
+## Tech Stack
+- Languages: Python, Bash, HTML, CSS  
+- Cloud Platforms: Google Cloud Platform (GCP), NVIDIA NGC  
+- Tools: Git, GitHub, VS Code, Linux (Ubuntu)
+
+---
+
+## GitHub Stats
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanya-cloud26&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaitanya-cloud26&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-cloud26&layout=compact&theme=radical)
+
+---
+
+## Achievements
+- Google Cloud Arcade Champion  
+- NVIDIA Certified Developer
+
+---
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/chaitanyagaikwad26)  
+- Email: cg9838362@gmail.com
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaitanya-cloud26)
