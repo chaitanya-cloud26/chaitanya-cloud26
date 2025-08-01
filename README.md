@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m Chaitanya Gaikwad  
+### Aspiring Cloud Engineer | GCP Enthusiast | Future DevOps Leader  
 
-<!--
-**chaitanya-cloud26/chaitanya-cloud26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently exploring:
+- Google Cloud Platform ☁️
+- Git & GitHub workflows
+- Linux, Networking, and DevOps Tools
+- AI/ML basics with NVIDIA & Google
 
-Here are some ideas to get you started:
+🛠️ Tools I’m learning:
+- Google Cloud Shell
+- Firebase
+- Docker & Kubernetes (soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals:
+- Build real cloud-based projects 💡
+- Contribute to open source
+- Earn cloud badges and internships 🌍
+
+📫 How to reach me:
+- [LinkedIn]chaitanyagaikwad26
