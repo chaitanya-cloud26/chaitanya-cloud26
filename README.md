@@ -31,3 +31,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-cloud26&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
 
 </div>
+
+
+
+
+
+## 🔰 Verified Memberships
+
+[![Google Cloud & NVIDIA](https://img.shields.io/badge/Google--NVIDIA%20Member-%23009687?style=for-the-badge&logo=nvidia&logoColor=white)](https://g.dev/chaitanyagaikwad)
+[![Google Developer](https://img.shields.io/badge/Google%20Developer%20Program-%23009687?style=for-the-badge&logo=googlecloud&logoColor=white)](https://g.dev/chaitanyagaikwad)
+
+---
+
+## 🏅 Certifications & Badges
+
+- 🟢 **Google Cloud & NVIDIA Community Member** — *22 May 2025*
+- 🔵 **Joined Google Developer Program** — *11 May 2025*
+
+📎 [Visit My Google Developer Profile](https://g.dev/chaitanyagaikwad)
