@@ -22,14 +22,10 @@
 - Earn cloud badges and internships 🌍
 
 ---
+### 📬 How to Reach Me
 
-## 📫 How to Reach Me
-📬 **How to Reach Me**
-
-📬 **How to Reach Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/chaitanyagaikwad26)
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&style=for-the-badge)](mailto:cg9838362@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyagaikwad26)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cg9838362@gmail.com)
 
 ---
 
